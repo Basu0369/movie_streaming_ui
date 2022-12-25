@@ -12,6 +12,7 @@ class MovieScreen extends StatelessWidget {
       body: Column(
         children: [
           Stack(
+
             children: [
               Container(
                 height: MediaQuery.of(context).size.height / 2,
