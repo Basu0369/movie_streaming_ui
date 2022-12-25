@@ -178,6 +178,7 @@ class MovieScreen extends StatelessWidget {
                       Icons.play_arrow_rounded,
                       size: 40,
                       color: Colors.white,
+
                     )),
               ),
             )
